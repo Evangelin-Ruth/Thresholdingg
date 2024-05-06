@@ -36,8 +36,8 @@ Display the results.
 
 ```python
 
-PROGRAM DEVELOPED BY: Monisha T
-REG NUMBER: 212221240029
+PROGRAM DEVELOPED BY: EVANGELIN.S
+REG NUMBER: 212221230025
 
 # Load the necessary packages
 
@@ -91,25 +91,24 @@ for i in range(0,9):
 
 ### Original Image
 
-![output](./output1.png)
+![image](https://github.com/Evangelin-Ruth/Thresholdingg/assets/94219798/764cbe19-aedb-4435-bcc6-719ced64b3b3)
 
 ### Global Thresholding
 
-![output](./output2.png)
 
-![output](./output3.png)
+![image](https://github.com/Evangelin-Ruth/Thresholdingg/assets/94219798/e09ba15d-3faa-46c7-a148-27e58a800d7e)
 
-![output](./output4.png)
+![image](https://github.com/Evangelin-Ruth/Thresholdingg/assets/94219798/1e19a4d1-c36a-4f1e-abb0-164791a5d633)
+![image](https://github.com/Evangelin-Ruth/Thresholdingg/assets/94219798/5fe9273b-954e-47db-8c6a-62dbce0e8089)
 
 
 ### Adaptive Thresholding
 
-![output](./output5.png)
+![image](https://github.com/Evangelin-Ruth/Thresholdingg/assets/94219798/7408bcce-53dc-4e29-8c27-541f05d201f8)
 
 
 ### Optimum Global Thesholding using Otsu's Method
-
-![output](./output6.png)
+![image](https://github.com/Evangelin-Ruth/Thresholdingg/assets/94219798/4ed4d7f9-d458-4e70-b2f3-d3823236b0b9)
 
 
 ## Result
